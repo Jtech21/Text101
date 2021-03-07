@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 232892bdd84ded04d87806c775b32d0f, type: 3}
+  m_Name: A6. Chat with DD About Cryo
+  m_EditorClassIdentifier: 
+  _storyText: "Tech 27451: You know when I defrosted this morning I just felt extra
+    worn by the experience.\r\n\r\nDD:[ That sounds unpleasant. May I ask you something
+    Doctor?\r\n\r\nTech 27451: Shoot DD.\r\n\r\nDD:| Does Cryosleep feel similar
+    to actual sleep? You seem to refer to them similarly but I understand them to
+    be quite different.\r\n\r\nTech 27451: Well yes and no. Cryo is definitely way
+    more clinical and precise. You set the timer, step into the chamber and then
+    it does all the rest. Sleep is a lot harder to make happen. At least for me it
+    is.\r\n\r\nDD:| So you are an insomniac? I don't see that in your file.\r\n\r\nTech
+    27451: No not that bad. I hear some people can just lay down in bed and be asleep
+    within minutes but I'm easily distracted from it. It can sometimes take me hours.\r\n\r\nDD:]
+    Humans have such interesting differences. \r\n\r\nTech 27451: On the other hand
+    when I wake up from a nap I usually don't have to clear my lungs of a preservative
+    fluid.\r\n\r\nTech 27451: At least when I'm not sick...\r\n\r\nDD:/ A vivid image.
+    \r\n\r\n1. [Continue]\r"
+  _nextStates:
+  - {fileID: 11400000, guid: 4ce859bea1624534d99f0e1ae318a1c2, type: 2}

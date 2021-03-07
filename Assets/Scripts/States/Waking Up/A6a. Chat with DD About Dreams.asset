@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 232892bdd84ded04d87806c775b32d0f, type: 3}
+  m_Name: A6a. Chat with DD About Dreams
+  m_EditorClassIdentifier: 
+  _storyText: "DD:| Another question?\r\n\r\nTech 27451: You don't have to ask every
+    time.\r\n\r\nDD: -Setting saved-\r\n\r\nTech 27451: Very funny.\r\n\r\nDD:| Do
+    you dream in cryo sleep?\r\n\r\nTech 27451: Hmm... you know I'm not really sure.
+    I don't really remember my dreams very often when I sleep normally actually.
+    I've never thought about whether or not that was because it was possible though.
+    Maybe I should start meditating or something to see if I can remember more dreams
+    and let you know.\r\n\r\nDD:| I don't have dreams either. I haven't been shut
+    off since I was installed into the Daedalus's systems. I do have to cycle sections
+    of my memory and defragment drives sometimes. I suppose at those times I am running
+    at a lower level of capacity which sounds something like the descriptions of
+    sleep that I know. \r\n\r\nTech 27451: Another thing we have in common I suppose.\r\n\r\nDD:]
+    A nice way of putting it.\r\n\r\n1. [Pick another topic]\r\n\r\n2. [Navigate
+    to view Experiment results]\r"
+  _nextStates:
+  - {fileID: 11400000, guid: 9a7d80f746e22fe40a74c95931e2ef96, type: 2}
+  - {fileID: 11400000, guid: cd295533630c7fb4ab6192a3e11426e9, type: 2}

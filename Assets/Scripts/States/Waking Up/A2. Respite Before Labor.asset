@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 232892bdd84ded04d87806c775b32d0f, type: 3}
+  m_Name: A2. Respite Before Labor
+  m_EditorClassIdentifier: 
+  _storyText: "[You take a moment to thank your past self for their foresight. You
+    remember being a fan of your past self and you add this to the evidence that
+    they are pretty cool.\r\n\r\nAfter a few minutes you are starting to chew on
+    a protein bar and the coffee maker spits some hot liquid into a thermos for you.\r\n\r\nAs
+    you take a sip of the black ichor warmth spreads through your chest and you feel
+    more ready to take on the responsibilities of your day.]\r\n\r\n1. [Continue]\r"
+  _nextStates:
+  - {fileID: 11400000, guid: 7077d287e2423d9498cc1125f35cd72a, type: 2}

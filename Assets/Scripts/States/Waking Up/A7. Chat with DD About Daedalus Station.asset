@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 232892bdd84ded04d87806c775b32d0f, type: 3}
+  m_Name: A7. Chat with DD About Daedalus Station
+  m_EditorClassIdentifier: 
+  _storyText: "Tech 27451: So DD how has the station been doing in my absence?\r\n\r\nDD:]
+    Quite well actually. Supply depletion is within expectations and between you
+    going into cryo and now I have updated nearly all scientists on the progress
+    of their experiments. \r\n\r\nTech 27451: No system failures or warnings I should
+    know about?\r\n\r\nDD:] Negative. Actually systems are performing past expectations.
+    The Daedalus will probably be running well past its projected shutdown date at
+    this point. \r\n\r\nTech 27451: Glad to hear DD, good job. I feel safe in your
+    hands.\r\n\r\nDD:] As you should Doctor. I think I would rate my performance
+    as one of the best Station DIs to ever be assigned. \r\n\r\nTech 27451: I didn't
+    realize that DIs could be so vain lol.\r\n\r\nDD:/ It is not vanity if it is
+    accurate Doctor. \r\n\r\nTech 27451: Haha I suppose you are right. Sorry DD I
+    was only teasing.\r\n\r\nDD;] So was I.\r\n\r\nTech 27451: Very funny DD. What
+    part of our orbit are we in? Anything of note?\r\n\r\nDD:| We will be passing
+    close enough to Halley's Comet to get some good readings. Mendez will likely
+    opt to launch a probe its way. \r\n\r\n1. [Continue]\r"
+  _nextStates:
+  - {fileID: 11400000, guid: c6104c72b8140ad4b9d690af3e874057, type: 2}

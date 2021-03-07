@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 232892bdd84ded04d87806c775b32d0f, type: 3}
+  m_Name: A8a. Chat with DD About DD Cont.
+  m_EditorClassIdentifier: 
+  _storyText: "Tech 27451: So DD can I ask you something?\r\n\r\nDD:| Of course Doctor.\r\n\r\nTech
+    27451: Do you do those on purpose? \r\n\r\nDD:/ Do what on purpose?\r\n\r\nTech
+    27451: Those little faces you do.\r\n\r\nDD:3 I don't know what you are talking
+    about.\r\n\r\nTech 27451: Haha I haven't seen that face since chatting with my
+    friends back home. \r\n\r\nDD:] In all seriousness I do those on purpose. I feel
+    like it helps me communicate with humans better as they are used to reading faces.
+    \r\n\r\nTech 27451: Yeah I see what you mean. It is way easier to picture your
+    tone when I can picture your face.\r\n\r\nDD:] I think of it as my face as well.
+    I don't really have much else in the way of self expression as a Station Digital
+    Intelligence.\r\n\r\nTech 27451: Well I find speaking to you pretty enjoyable
+    DD.\r\n\r\nDD:] Likewise Doctor\r\n\r\n1. [Pick another topic]\r\n\r\n2. [Navigate
+    to view Experiment results]\r"
+  _nextStates:
+  - {fileID: 11400000, guid: 9a7d80f746e22fe40a74c95931e2ef96, type: 2}
+  - {fileID: 11400000, guid: cd295533630c7fb4ab6192a3e11426e9, type: 2}

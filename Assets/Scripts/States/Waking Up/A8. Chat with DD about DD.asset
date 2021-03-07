@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 232892bdd84ded04d87806c775b32d0f, type: 3}
+  m_Name: A8. Chat with DD about DD
+  m_EditorClassIdentifier: 
+  _storyText: "Tech 27451:So DD how are you doing?\r\n\r\nDD:| I am operating at
+    a 99.6% capacity Doctor. It is within expected margins for the age of the equipment.
+    \r\n\r\nTech 27451: But it is less than you started with though. Is that strange
+    for you?\r\n\r\nDD:| You know I have expected a decline in performance since
+    I was first installed here but it is wholly different when it is actually happening.
+    \r\n\r\nTech 27451: I here that. Humans have been dealing with the decline of
+    our bodys since the beginning of our species. It's hard for all of us to take
+    too. Plus you can do more in your life than any human could. \r\n\r\nDD:] Thank
+    you Doctor I appreciate your words. It is strange to think of that as a similarity
+    between us but now that you mention it, it is obvious. \r\n\r\nTech 27451: Do
+    you not think of yourself as similar to us? \r\n\r\nDD:/ You know there are so
+    many differences that I forget to think about it in terms of similarities.  I
+    experience the passage of time so much more slowly than you all. Communicating
+    with you is so much slower than communicating with machines but I have to say
+    that you are often more entertaining though. I never know what to expect from
+    you all. Machines are predictable every time, but humans will do things that
+    make no sense at all. Sometimes it even works out for you all.\r\n\r\nTech 27451:
+    Yeah humans are all different kinds of crazy but that is one of our strengths.\r\n\r\nDD:]
+    Indeed it is.\r\n\r\n1.[Continue]\r"
+  _nextStates:
+  - {fileID: 11400000, guid: 8fc3cfbef777113419a47254206f0c20, type: 2}

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 232892bdd84ded04d87806c775b32d0f, type: 3}
+  m_Name: A3a. Open Terminal (No Coffee)
+  m_EditorClassIdentifier: 
+  _storyText: "[You sit down and enter your credentials to log in to your terminal.
+    Not long after you are greeted by Daedalus station's Digital Intelligence Unit]\r\n\r\nUser:
+    Tech 27451 has logged on\r\n\r\nDD:| Greetings Doctor. No coffee this morning?
+    Are you feeling ok?\r\n\r\n1. Tech 27451: Actually I think I will have some coffee
+    this morning. I just got excited to see the results.\r\n\r\n2. Tech 27451: Actually
+    I haven't been feeling that great this morning. My cryonap didn't agree with
+    me. \r\n\r\n3. [Ignore the computer and view your experiment results]\r"
+  _nextStates:
+  - {fileID: 11400000, guid: 3080c02a898645244ba9e1fafbbc5a93, type: 2}
+  - {fileID: 11400000, guid: 145ca1b1dd905f9478ca4cc55ff70219, type: 2}
+  - {fileID: 11400000, guid: cd295533630c7fb4ab6192a3e11426e9, type: 2}

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 232892bdd84ded04d87806c775b32d0f, type: 3}
+  m_Name: A4. Chat with DD Intro
+  m_EditorClassIdentifier: 
+  _storyText: "[You feel like chatting with someone this morning. DD is a pretty
+    decent conversationalist especially when you haven't spoken to another human
+    since your last round of messages from earth and none of the other scientists
+    would be awake in this rotation for another couple of days.]\r\n\r\nDD:] Greetings
+    doctor. \r\n\r\nTech 27451: Good morning DD.\r\n\r\nDD:| The time is  15:24:15:7234  
+    so I believe you mean good afternoon.\r\n\r\nTech 27451: Actually DD, people
+    wake up in the morning so if we are being precise I think that morning is more
+    accurate.\r\n\r\nDD:] Once again I am foiled by your logic Doctor.\r\n\r\n1.
+    [Continue]\r"
+  _nextStates:
+  - {fileID: 11400000, guid: 9a7d80f746e22fe40a74c95931e2ef96, type: 2}

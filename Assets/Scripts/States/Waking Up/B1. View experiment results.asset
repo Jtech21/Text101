@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 232892bdd84ded04d87806c775b32d0f, type: 3}
+  m_Name: B1. View experiment results
+  m_EditorClassIdentifier: 
+  _storyText: "Filler Text.\n\nThis is the next phase of developement. \n\n1. [Start
+    from the beginning]"
+  _nextStates:
+  - {fileID: 11400000, guid: 31a5bff4e3d814e448d72e83d27c6a67, type: 2}

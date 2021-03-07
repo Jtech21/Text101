@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 232892bdd84ded04d87806c775b32d0f, type: 3}
+  m_Name: M1. Instructions
+  m_EditorClassIdentifier: 
+  _storyText: "Welcome to this Text adventure created as part of a gamedev.tv Course.
+    \r\n\r\nThis one is a sci-fi themed chat adventure.\n\r\nPress the number key
+    that corresponds to the dialogue choice you would like to proceed with.\r\n\r\n1.
+    [Continue to game]"
+  _nextStates:
+  - {fileID: 11400000, guid: 10cf6dca91e9e254292081ec8a607b0c, type: 2}

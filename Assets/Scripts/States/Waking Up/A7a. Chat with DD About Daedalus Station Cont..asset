@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 232892bdd84ded04d87806c775b32d0f, type: 3}
+  m_Name: A7a. Chat with DD About Daedalus Station Cont.
+  m_EditorClassIdentifier: 
+  _storyText: "Tech 27451: You bet your ass he will.\r\n\r\nDD:| That is the only
+    real thing of note that you are not already briefed on and I don't want to spoil
+    any experiment results.\r\n\r\nTech 27451: Of course. You see anything pretty
+    while I was gone?\r\n\r\nDD:] Yes I will link you to my archive.\r\n\r\n[DD sends
+    you a link to their personal archive or images, videos and other records that
+    likely make more sense to him. You see that they have been keeping this folder
+    since they were installed on the station. As you pour through it you notice many
+    shots of gas clouds in interesting light spectrums, graphs of strange extra solar
+    radio static and time lapses of distant celestial bodies made with one of the
+    strongest telescope arrays ever created. While some of these look pretty alien
+    to you, you find it all beautiful nonetheless.]\r\n\r\nTech 27451: This is some
+    great stuff DD. Is this all part of your required workload?\r\n\r\nDD:] Thank
+    you doctor. No this folder contains only incidental data I have gathered. The
+    scope of my assigned projects is strict but since it can be hard to predict everything
+    the station could come across in its entire lifespan. So I have been given access
+    to all of my processing cycles to spend at my discretion after making sure to
+    do my assigned work and help all of you.\r\n\r\nTech 27451: Well I think you
+    have pretty good discretion based on what I am seeing here.\r\n\r\n1. [Pick another
+    topic]\r\n\r\n2. [Navigate to view experiment results]\r"
+  _nextStates:
+  - {fileID: 11400000, guid: 9a7d80f746e22fe40a74c95931e2ef96, type: 2}
+  - {fileID: 11400000, guid: cd295533630c7fb4ab6192a3e11426e9, type: 2}
